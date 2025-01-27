@@ -313,7 +313,7 @@ jobs:
           Icon=io.github.vito0912.abs_flutter.png
           Terminal=false
           Keywords=Audiobook,Player,Audiobookshelf,Listen;
-          Categories=Multimedia;Audio;AudioVideo;Player;
+          Categories=Audio;AudioVideo;Player;
           MimeType=audio/*;video/*;
           X-GNOME-UsesNotifications=true
           StartupWMClass=buchable
