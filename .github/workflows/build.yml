@@ -310,7 +310,7 @@ jobs:
           Comment=Enjoy hearing self-hosted audiobooks.
           Exec=buchable
           Type=Application
-          Icon=io.github.vito0912.abs_flutter.png
+          Icon=io.github.vito0912.abs_flutter
           Terminal=false
           Keywords=Audiobook,Player,Audiobookshelf,Listen;
           Categories=Audio;AudioVideo;Player;
